@@ -16,8 +16,8 @@ print=input("Enter your institute name? :")
 # In[5]:
 
 
-print=input("Enter your name:")
-print=int(input("Enter your age:"))
-print=input("Enter your school name:")
-print=input("Enter your drgree:")
+name=input("Enter your name:")
+age=int(input("Enter your age:"))
+school=input("Enter your school name:")
+qualification=input("Enter your drgree:")
 
